@@ -9,4 +9,14 @@ INSTALLIATIONS
 
 
 
-git clone 
+git clone https://github.com/ArkAngeL43/Cam-Stalker.git
+
+
+cd Cam-Stalker 
+
+chmod +x ./setup.sh 
+
+./setup.sh 
+
+
+python3 cam.py 
